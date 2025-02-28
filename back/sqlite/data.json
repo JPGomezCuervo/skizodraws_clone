@@ -1,0 +1,407 @@
+{
+        "collection": {
+                "id": "269712425123",
+                "title": "Shop All",
+                "productVariants": [{
+                        "price": {
+                                "amount": 15.0,
+                                "currencyCode": "USD"
+                        },
+                        "product": {
+                                "title": "Icon Pack 200+ Icons",
+                                "vendor": "SkizoDraws",
+                                "id": "7860680032495",
+                                "untranslatedTitle": "Icon Pack 200+ Icons",
+                                "url": "\/products\/skizo-icon-pack-200-minimal-icons",
+                                "type": "Icon Pack"
+                        },
+                        "id": "43423182881007",
+                        "image": {
+                                "src": "\/\/skizodraws.com\/cdn\/shop\/files\/1-cover.jpg?v=1712973584"
+                        },
+                        "sku": "",
+                        "title": "Default Title",
+                        "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 30.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Mega Sticker Pack",
+                        "vendor": "SkizoDraws",
+                        "id": "6898169282723",
+                        "untranslatedTitle": "Mega Sticker Pack",
+                        "url": "\/products\/mega-sticker-pack",
+                        "type": "Sticker"
+                },
+                "id": "45926102827247",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/mega-pack-4-5.png?v=1691596570"
+                },
+                "sku": "sticker-megapack30",
+                "title": "30 Stickers",
+                "untranslatedTitle": "30 Stickers"
+                }, {
+                "price": {
+                        "amount": 35.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Gates of Hell Tee | Heavyweight Graphic T-shirt",
+                        "vendor": "SkizoDraws",
+                        "id": "6050488549539",
+                        "untranslatedTitle": "Gates of Hell Tee | Heavyweight Graphic T-shirt",
+                        "url": "\/products\/gate-of-hell-t-shirt-heavyweight-graphic-tee-shirt",
+                        "type": "Tee"
+                },
+                "id": "37657201213603",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Gates-Back-Tee.jpg?v=1712960401"
+                },
+                "sku": "tee-gates-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 80.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Gates of Hell Hoodie | Oversized Graphic Hoodie",
+                        "vendor": "SkizoDraws",
+                        "id": "6050527969443",
+                        "untranslatedTitle": "Gates of Hell Hoodie | Oversized Graphic Hoodie",
+                        "url": "\/products\/gates-of-hell-hoodie-oversized-graphic-hoodie",
+                        "type": "Hoodie"
+                },
+                "id": "37657382977699",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Gates-Back-Hoodie.jpg?v=1712959269"
+                },
+                "sku": "hoodie-gates-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 10.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Hello! | Soft Enamel Pin",
+                        "vendor": "SkizoDraws",
+                        "id": "5406338678947",
+                        "untranslatedTitle": "Hello! | Soft Enamel Pin",
+                        "url": "\/products\/copy-of-hand-with-rose-enamel-pin",
+                        "type": "Enamel Pin"
+                },
+                "id": "35105300578467",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Hello-2.jpg?v=1728595380"
+                },
+                "sku": "pin-hello",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 10.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Rose of Death | Soft Enamel Pin",
+                        "vendor": "SkizoDraws",
+                        "id": "5406332551331",
+                        "untranslatedTitle": "Rose of Death | Soft Enamel Pin",
+                        "url": "\/products\/copy-of-skull-enamel-pin",
+                        "type": "Enamel Pin"
+                },
+                "id": "35105280917667",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Rose-2.jpg?v=1728595386"
+                },
+                "sku": "pin-deathrose",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 35.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Never Been Better Tee",
+                        "vendor": "SkizoDraws",
+                        "id": "8120791040239",
+                        "untranslatedTitle": "Never Been Better Tee",
+                        "url": "\/products\/never-been-better-tee",
+                        "type": "Tee"
+                },
+                "id": "44083529285871",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Nbb-tee_980da708-8f5c-4571-a975-f893072091c2.jpg?v=1727819922"
+                },
+                "sku": "tee-neverbetter-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 23.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Mystery Tee | Heavyweight Graphic T-shirt",
+                        "vendor": "SkizoDraws",
+                        "id": "6090838016163",
+                        "untranslatedTitle": "Mystery Tee | Heavyweight Graphic T-shirt",
+                        "url": "\/products\/mystery-skizo-tee-heavyweight-graphic-tee-shirt",
+                        "type": "Tee"
+                },
+                "id": "37788605153443",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/mystery-tee-gif.gif?v=1732134688"
+                },
+                "sku": "tee-mystery-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 0.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Skizo Crispy Font",
+                        "vendor": "SkizoDraws",
+                        "id": "8195069673711",
+                        "untranslatedTitle": "Skizo Crispy Font",
+                        "url": "\/products\/skizo-crispy-font",
+                        "type": "Digital"
+                },
+                "id": "44240653746415",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/P1.jpg?v=1700347406"
+                },
+                "sku": null,
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 25.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Rose Legacy Tee | Heavyweight Graphic T-shirt",
+                        "vendor": "SkizoDraws",
+                        "id": "5649800822947",
+                        "untranslatedTitle": "Rose Legacy Tee | Heavyweight Graphic T-shirt",
+                        "url": "\/products\/rose-t-shirt-heavyweight-graphic-tee-shirt",
+                        "type": ""
+                },
+                "id": "36097578565795",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/RosesL-tee.jpg?v=1727820520"
+                },
+                "sku": "tee-roselegacy-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 10.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Spooky Sticker Pack",
+                        "vendor": "SkizoDraws",
+                        "id": "8056244732143",
+                        "untranslatedTitle": "Spooky Sticker Pack",
+                        "url": "\/products\/spooky-sticker-pack",
+                        "type": "Sticker"
+                },
+                "id": "43940715659503",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/spooky-4-5.png?v=1691596656"
+                },
+                "sku": "sticker-spookypack",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 70.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Gates of Hell Crewneck | Heavyweight Graphic Sweatshirt",
+                        "vendor": "SkizoDraws",
+                        "id": "8125160456431",
+                        "untranslatedTitle": "Gates of Hell Crewneck | Heavyweight Graphic Sweatshirt",
+                        "url": "\/products\/gates-of-hell-crewneck-heavyweight-graphic-sweatshirt",
+                        "type": "Crewneck"
+                },
+                "id": "44092764618991",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Gates-Back-Crewneck.jpg?v=1712952650"
+                },
+                "sku": "crewneck-gates-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 30.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Dummy Tee | Heavyweight Graphic T-shirt",
+                        "vendor": "SkizoDraws",
+                        "id": "8017714577647",
+                        "untranslatedTitle": "Dummy Tee | Heavyweight Graphic T-shirt",
+                        "url": "\/products\/dummy-tee-heavyweight-graphic-tee-shirt",
+                        "type": "Tee"
+                },
+                "id": "43837959438575",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Dummy-Tee.jpg?v=1712960239"
+                },
+                "sku": "tee-dummy-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 30.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Skizo Mix Tee | Heavyweight Graphic T-shirt",
+                        "vendor": "SkizoDraws",
+                        "id": "8034053161199",
+                        "untranslatedTitle": "Skizo Mix Tee | Heavyweight Graphic T-shirt",
+                        "url": "\/products\/skizo-mix-tee-heavyweight-graphic-tee-shirt",
+                        "type": "Tee"
+                },
+                "id": "43887126118639",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Mix-tee.jpg?v=1727819961"
+                },
+                "sku": "tee-mix-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }, {
+                "price": {
+                        "amount": 10.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Sorcery Sticker Pack",
+                        "vendor": "SkizoDraws",
+                        "id": "8096321503471",
+                        "untranslatedTitle": "Sorcery Sticker Pack",
+                        "url": "\/products\/sorcery-sticker-pack",
+                        "type": "Sticker"
+                },
+                "id": "44033353154799",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/sorcery-pack-4-5.png?v=1691595612"
+                },
+                "sku": "sticker-sorcerypack",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 10.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Coffee Sticker Pack",
+                        "vendor": "SkizoDraws",
+                        "id": "8213873262831",
+                        "untranslatedTitle": "Coffee Sticker Pack",
+                        "url": "\/products\/coffee-sticker-pack",
+                        "type": "Sticker"
+                },
+                "id": "44293918195951",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Coffee-pack.jpg?v=1712974457"
+                },
+                "sku": "sticker-coffeepack",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 10.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Nature Sticker Pack",
+                        "vendor": "SkizoDraws",
+                        "id": "8056238440687",
+                        "untranslatedTitle": "Nature Sticker Pack",
+                        "url": "\/products\/nature-sticker-pack",
+                        "type": "Sticker"
+                },
+                "id": "43940706517231",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/nature-4-5.png?v=1691596642"
+                },
+                "sku": "sticker-naturepack",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 2.5,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Dummy | Transparent Sticker",
+                        "vendor": "SkizoDraws",
+                        "id": "8008251703535",
+                        "untranslatedTitle": "Dummy | Transparent Sticker",
+                        "url": "\/products\/dummy-sticker",
+                        "type": "Sticker"
+                },
+                "id": "43798028746991",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/dummy_c0662978-7c74-4835-a8f4-cc26173cc840.png?v=1687457435"
+                },
+                "sku": "sticker-clear-dummy",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 2.5,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Calamity | Vinyl Sticker",
+                        "vendor": "SkizoDraws",
+                        "id": "7908997267695",
+                        "untranslatedTitle": "Calamity | Vinyl Sticker",
+                        "url": "\/products\/calamity-sticker",
+                        "type": "Sticker"
+                },
+                "id": "43551322472687",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/calamity_b185fbda-d816-482b-89f1-39d7bb73bc25.png?v=1687457411"
+                },
+                "sku": "sticker-vinyl-calamity",
+                "title": "Default Title",
+                "untranslatedTitle": "Default Title"
+                }, {
+                "price": {
+                        "amount": 25.0,
+                        "currencyCode": "USD"
+                },
+                "product": {
+                        "title": "Rose Tee | Heavyweight Graphic T-shirt",
+                        "vendor": "SkizoDraws",
+                        "id": "8120781275375",
+                        "untranslatedTitle": "Rose Tee | Heavyweight Graphic T-shirt",
+                        "url": "\/products\/rose-tee-heavyweight-graphic-tee-shirt",
+                        "type": "Tee"
+                },
+                "id": "44083516670191",
+                "image": {
+                        "src": "\/\/skizodraws.com\/cdn\/shop\/files\/Rose-Tee.jpg?v=1727820601"
+                },
+                "sku": "tee-rose-s",
+                "title": "S",
+                "untranslatedTitle": "S"
+                }]
+        }
+}
