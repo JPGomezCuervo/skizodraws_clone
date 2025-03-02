@@ -1,5 +1,6 @@
 import express from  "express";
 import sqlite3 from "sqlite3";
+import cors from "cors";
 import { logger } from "./utils.js";
 import collections_router from "./collections.js";
 
@@ -8,6 +9,9 @@ const app = express();
 const port = 3000;
 
 app.use(logger);
+app.use(cors({
+        origin: "http://localhost:5173"
+}));
 app.use("/collections", collections_router);
 app.use("/", (req, res) => res.send("Nothing to see here!"));
 
