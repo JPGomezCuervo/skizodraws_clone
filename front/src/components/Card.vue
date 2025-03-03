@@ -1,28 +1,21 @@
 <script setup>
   import { defineProps } from "vue";
-  const {
-  product_title, 
-  product_id,
-  product_img,
-  product_type,
-  product_price,
-  product_currency
-  } = defineProps({
+  const props = defineProps({
     product_title: String,
     product_id: Number,
     product_img: String,
-    product_type: Number,
+    product_type_id: Number,
     product_price: Number,
-    product_currency: String
+    product_currency: String,
   });
 
 </script>
 <template>
-  <div id={product_id}>
-    <p>{product_title}</p>
-    <img src={product_img}>
-    <p>{product_price}</p>
-    <p>{product_currency}</p>
-    <p>{product_type}</p>
+  <div :id="props.product_id" :product_type="props.product_type_id" class="text-center m-auto mb-10">
+    <img class="w-65 mb-4":src="props.product_img">
+    <p class="text-sm w-60 mb-4">{{props.product_title}}</p>
+    <div class="flex justify-center text-xs">
+      <p>${{ props.product_price }}&nbsp;{{ props.product_currency }}</p>
+    </div>
   </div>
 </template>
