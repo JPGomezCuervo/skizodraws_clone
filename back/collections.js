@@ -27,13 +27,22 @@ router.get("/:products", check_product_params, get_products );
 router.get("/products/types", get_product_types );
 
 async function get_products(req, res) {
-        const sql = "SELECT * FROM products";
+        const sql = `SELECT
+                product_id,
+                product_title,
+                product_type_id,
+                printf("%.2f", product_price) AS product_price,
+                currency_id,
+                updated_at,
+                product_img_src
+                FROM products`;
+
         try {
                 const products = await fetchall(db, sql);
                 res.status(200).json(products);
         } catch(err) {
                 /* TODO: magic number */
-                console.err(err);
+                console.error(err);
                 res.status(500).end()
         } 
 }
@@ -45,7 +54,7 @@ async function get_product_types(req, res) {
                 res.status(200).json(product_types);
         } catch(err) {
                 /* TODO: magic number */
-                console.err(err);
+                console.error(err);
                 res.status(500).end()
         } 
 
